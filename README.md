@@ -54,11 +54,15 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=berkmkaracayir&show_icons=true&theme=radical)](https://github.com/berkmkaracayir)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=berkmkaracayir&theme=radical)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkmkaracayir&layout=compact&theme=radical)](https://github.com/berkmkaracayir)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=berkmkaracayir&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+### 📊 GitHub Activity
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berkmkaracayir&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=berkmkaracayir&theme=solarized_dark&utcOffset=3)
 
 <p align="center">🚀 Yufka Yüreklilerle Çetin Yollar Aşılmaz!</p>
